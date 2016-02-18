@@ -1,3 +1,4 @@
+Hello World
 # Markdown?!
 
 This file is both a text file, and a markdown file.
@@ -11,4 +12,4 @@ You can use markdown in many of the text fields on GitHub to add extra formattin
 * Comments in Issues and Pull Requests
 * Files with the `.md` or `.markdown extension`
 
-and the GitHub preview will apply the markdown formating.
+and the .
